@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?php
 /**
  * Payroll System - Dashboard
